@@ -1,4 +1,4 @@
-# Alura Store - Análisis de Datos
+# Alura Store - Análisis de Datos 
 
 ## Propósito del Análisis
 El análisis realizado en el notebook `AluraStoreLatam.ipynb` tiene como objetivo explorar y comprender los datos de ventas de la tienda Alura Store. A través de este análisis, se busca identificar patrones de comportamiento de los clientes, productos más vendidos, tendencias de ventas y otros insights clave que puedan ayudar a decidir cual tienda vender. 
@@ -23,13 +23,16 @@ A continuación, se presentan algunos ejemplos de gráficos generados y los insi
     - Insight: La tienda con menor cantidad de ingresos es la tienda 4.
 
 2. **Gráfico de calificación de clientes**:
-![alt text](<imagenes\Calificacionpromedio.png>)
+![alt text](<imagenes/Calificacionpromedio.png>)
     - Insight: Las calificaciones de clientes tienden a ser similares entre las diferentes tiendas.
 
 3. **Gráfico de cuotas por cliente**:
-![alt text](<imagenes\CantidadDeCuotas.png>)
-![alt text](<imagenes\Costos de envios.png>)
+![alt text](<imagenes/CantidadDeCuotas.png>)
+![alt text](<imagenes/Costos de envios.png>)
     - Insight: La cantidad de cuotas parece estable entre las diferentes tiendas, sin embargo la tienda 4 tiene la menor cantidad de cuotas. De igual forma la tienda 4 tiene la menor cantidad de costos de envíos.
+
+# Decision Final
+Al analizar diferentes métricas, se concluyó que la tienda 4 es la que menos ingresos genera y tiene la menor cantidad de cuotas y costos de envíos. Por lo tanto, se decidió no vender en esta tienda.
 
 ## Instrucciones para Ejecutar el Notebook
 Para ejecutar el notebook `AluraStoreLatam.ipynb`, sigue los pasos a continuación:
